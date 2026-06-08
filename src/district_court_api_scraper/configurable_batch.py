@@ -635,7 +635,7 @@ def _run_query(
         selector_key = _build_selector_key(list_item)
         list_item["selector_key"] = selector_key
         case_list_items.append(list_item)
-        if allowed_case_keys is not None and selector_key not in allowed_case_keys:
+        if allowed_case_keys is not None and cino not in allowed_case_keys:
             continue
         if allowed_case_keys is None and not _cnr_in_targets(cino=cino, target_years=target_years, min_cnr_year=min_cnr_year):
             continue
