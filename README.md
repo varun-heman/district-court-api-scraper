@@ -274,7 +274,7 @@ The Punjab NI-138 dataset is published as release assets on this repository. Two
 
 **[punjab-ni138-cases.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 78,688 NI-138 (cheque bounce) cases filed in Punjab district courts between 2023 and 2026. Contains `cases.csv` (one row per case: CNR, district, filing date, decision date, status, disposal type, petitioner, respondent, advocates) and `caselists.csv` (raw case list data).
 
-**[punjab-ni138-hearings.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 110,738 hearing records across a sample of 13,624 disposed cases. Contains `hearings.csv` (one row per hearing: CNR, date, business text, next purpose, nature of disposal).
+**[punjab-ni138-hearings.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 110,738 hearing records across 13,624 disposed cases (all 23 districts). The scrape was seeded with ~100 disposed cases per district but captured additional cases encountered during the run. Contains `hearings.csv` (one row per hearing: CNR, date, business text, next purpose, nature of disposal).
 
 Data is sourced from the public eCourts portal (`services.ecourts.gov.in`) and was scraped using this repository. It covers all 23 Punjab districts. Raw HTML is not included; use the scraper to re-fetch if needed.
 
