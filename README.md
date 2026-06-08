@@ -276,7 +276,9 @@ The Punjab NI-138 dataset is published as release assets on this repository. Two
 
 **[punjab-ni138-hearings.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 110,738 hearing records across 13,624 disposed cases (all 23 districts). The scrape was seeded with ~100 disposed cases per district but captured additional cases encountered during the run. Contains `hearings.csv` (one row per hearing: CNR, date, business text, next purpose, nature of disposal).
 
-Data is sourced from the public eCourts portal (`services.ecourts.gov.in`) and was scraped using this repository. It covers all 23 Punjab districts. Raw HTML is not included; use the scraper to re-fetch if needed.
+**[punjab-ni138-hearings-raw.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — Raw HTML files from the hearings scrape, one file per hearing. Use this if you want to re-parse the hearing pages with different logic. The hearings.csv above is derived from these files.
+
+Data is sourced from the public eCourts portal (`services.ecourts.gov.in`) and was scraped using this repository. It covers all 23 Punjab districts. Cases raw HTML is not included; use the scraper to re-fetch if needed.
 
 ---
 
