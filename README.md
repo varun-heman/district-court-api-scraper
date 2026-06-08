@@ -270,7 +270,7 @@ Root-level generated datasets under `data/` and generated reports under
 
 ## Punjab NI-138 Data
 
-The Punjab NI-138 dataset is published as release assets on this repository. Two files are available:
+The Punjab NI-138 dataset is published as release assets on this repository. Three files are available:
 
 **[punjab-ni138-cases.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 78,688 NI-138 (cheque bounce) cases filed in Punjab district courts. Reliably covers 2024, 2025, and 2026 (scraped 7 June 2026); 2023 data is incomplete as that scrape was interrupted. Contains `cases.csv` (one row per case: CNR, district, filing date, decision date, status, disposal type, petitioner, respondent, advocates) and `caselists.csv` (raw case list data).
 
