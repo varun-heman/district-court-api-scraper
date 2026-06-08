@@ -1,0 +1,1057 @@
+{
+  "Punjab": {
+    "stvalue": "22",
+    "districts": {
+      "Amritsar": {
+        "dstvalue": "8",
+        "court_complexes": {
+          "Judicial Complex, Baba Bakala": {
+            "crtvalue": "1220033@3,10,11@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court,Baba Bakala": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, taluka Court Baba Bakala": {
+                "estvalue": "10"
+              },
+              "Family Court Baba Bakala, Amritsar": {
+                "estvalue": "11"
+              }
+            }
+          },
+          "Judicial Complex, Ajnala": {
+            "crtvalue": "1220035@2,8,12@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Ajnala": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Ajnala": {
+                "estvalue": "8"
+              },
+              "Family Court Ajnala, Amritsar": {
+                "estvalue": "12"
+              }
+            }
+          },
+          "District Court, Amritsar": {
+            "crtvalue": "1220036@1,6,7@N",
+            "establishments": {
+              "District and Sessions Court, Amritsar": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Amritsar": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate, Amritsar": {
+                "estvalue": "7"
+              }
+            }
+          }
+        }
+      },
+      "Barnala": {
+        "dstvalue": "16",
+        "court_complexes": {
+          "District Court, Barnala": {
+            "crtvalue": "1220061@1,2,3@N",
+            "establishments": {
+              "District and Sessions Court, Barnala": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Barnala": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Barnala": {
+                "estvalue": "3"
+              }
+            }
+          }
+        }
+      },
+      "Bathinda": {
+        "dstvalue": "17",
+        "court_complexes": {
+          "District Court, Bathinda": {
+            "crtvalue": "1220062@1,4,5@N",
+            "establishments": {
+              "District and Sessions Court, Bathinda": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Bathinda": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Bathinda": {
+                "estvalue": "5"
+              }
+            }
+          },
+          "Judicial Complex, Phul": {
+            "crtvalue": "1220063@2,7,8@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Phul": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate,Taluka Court, Phul": {
+                "estvalue": "7"
+              },
+              "Family Court Phul, Bathinda": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "Judicial Complex, Talwandi Sabo": {
+            "crtvalue": "1220064@3,6,9@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Talwandi Sabo": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Talwandi Sabo": {
+                "estvalue": "6"
+              },
+              "Family Court  Talwandi Sabo, Bathinda": {
+                "estvalue": "9"
+              }
+            }
+          }
+        }
+      },
+      "Faridkot": {
+        "dstvalue": "9",
+        "court_complexes": {
+          "District Court, Faridkot": {
+            "crtvalue": "1220037@1,2,3@N",
+            "establishments": {
+              "District and Sessions Court, Faridkot": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Faridkot": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Fardikot": {
+                "estvalue": "3"
+              }
+            }
+          },
+          "Judicial Complex, Jaitu": {
+            "crtvalue": "1220038@4,5@N",
+            "establishments": {
+              "Chief Judicial Magistrate, Taluka Court, Jaitu": {
+                "estvalue": "4"
+              },
+              "Civil Judge Senior Division, Taluka Court, Jaitu": {
+                "estvalue": "5"
+              }
+            }
+          }
+        }
+      },
+      "Fatehgarh Sahib": {
+        "dstvalue": "4",
+        "court_complexes": {
+          "Judicial Complex, Amloh": {
+            "crtvalue": "1220014@2,5,8@N",
+            "establishments": {
+              "Chief Judicial Magistrate,Taluka Court, Amloh": {
+                "estvalue": "2"
+              },
+              "Civil Judge Senior Division , Taluka Court, Amloh": {
+                "estvalue": "5"
+              },
+              "Family Court, Amloh, Fatehgarh Sahib": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "District Court, Fatehgarh Sahib": {
+            "crtvalue": "1220015@1,3,4@N",
+            "establishments": {
+              "District and Sessions Court, Fatehgarh Sahib": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Divison, Fatehgarh Sahib": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Fatehgarh Sahib": {
+                "estvalue": "4"
+              }
+            }
+          },
+          "Judicial Court Complex, Khamanon": {
+            "crtvalue": "1220016@6,7,9@Y",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Khamanon": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Khamanon": {
+                "estvalue": "7"
+              },
+              "Family Court, Khamanon, Fatehgarh Sahib": {
+                "estvalue": "9"
+              }
+            }
+          }
+        }
+      },
+      "Fazilka": {
+        "dstvalue": "26",
+        "court_complexes": {
+          "District Court, Fazilka": {
+            "crtvalue": "1220086@1,2,7@N",
+            "establishments": {
+              "District and Sessions Court, Fazilka": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Taluka Court, Fazilka": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Fazilka": {
+                "estvalue": "7"
+              }
+            }
+          },
+          "Judicial Complex, Jalalabad": {
+            "crtvalue": "1220087@5,6,9@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Jalalabad": {
+                "estvalue": "5"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Jalalabad": {
+                "estvalue": "6"
+              },
+              "Family Court, Jalalabad": {
+                "estvalue": "9"
+              }
+            }
+          },
+          "Judicial Court, Abohar": {
+            "crtvalue": "1220088@3,4,8@Y",
+            "establishments": {
+              "Chief Judicial Magistrate, Taluka Court, Abohar": {
+                "estvalue": "3"
+              },
+              "Civil Judge Senior Division,Taluka Court, Abohar": {
+                "estvalue": "4"
+              },
+              "Family Court, Abohar": {
+                "estvalue": "8"
+              }
+            }
+          }
+        }
+      },
+      "Ferozepur": {
+        "dstvalue": "6",
+        "court_complexes": {
+          "Judicial Complex, Zira": {
+            "crtvalue": "1220023@2,11,15@Y",
+            "establishments": {
+              "Civil Judge Senior Divion, Taluka Court, Zira": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Zira": {
+                "estvalue": "11"
+              },
+              "Family Court, Zira": {
+                "estvalue": "15"
+              }
+            }
+          },
+          "District Court, Ferozepur": {
+            "crtvalue": "1220026@1,6,7@Y",
+            "establishments": {
+              "District and Sessions Court, Ferozepur": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Ferozepur": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate, Ferozepur": {
+                "estvalue": "7"
+              }
+            }
+          },
+          "Judicial Complex, Guruharsahai": {
+            "crtvalue": "1220031@13,14,16@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Guruharsahai": {
+                "estvalue": "13"
+              },
+              "Chief Judicial Magistrate,Taluka Court, Guruharsahai": {
+                "estvalue": "14"
+              },
+              "Family Court, Guruharsahai": {
+                "estvalue": "16"
+              }
+            }
+          }
+        }
+      },
+      "Gurdaspur": {
+        "dstvalue": "10",
+        "court_complexes": {
+          "District Court, Gurdaspur": {
+            "crtvalue": "1220040@1,2,3@N",
+            "establishments": {
+              "District and Sessions Court, Gurdaspur": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Gurdaspur": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Gurdaspur": {
+                "estvalue": "3"
+              }
+            }
+          },
+          "Judicial Complex, Batala": {
+            "crtvalue": "1220041@4,5,6@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Batala": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Batala": {
+                "estvalue": "5"
+              },
+              "Family Court Batala,Gurdaspur": {
+                "estvalue": "6"
+              }
+            }
+          }
+        }
+      },
+      "Hoshiarpur": {
+        "dstvalue": "18",
+        "court_complexes": {
+          "Judicial Complex, Mukerian": {
+            "crtvalue": "1220065@9,10,11@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Mukerian": {
+                "estvalue": "9"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Mukerian": {
+                "estvalue": "10"
+              },
+              "Family Court Mukerian, Hoshiarpur": {
+                "estvalue": "11"
+              }
+            }
+          },
+          "Judicial Complex, Dasuya": {
+            "crtvalue": "1220066@1,7,13@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Dasuya": {
+                "estvalue": "1"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Dasuya": {
+                "estvalue": "7"
+              },
+              "Family Court Dasuya, Hoshiarpur": {
+                "estvalue": "13"
+              }
+            }
+          },
+          "District Court, Hoshiarpur": {
+            "crtvalue": "1220067@3,5,6@N",
+            "establishments": {
+              "District Court, Hoshiarpur  Session Court": {
+                "estvalue": "3"
+              },
+              "Civil Judge Senior Division, Hoshiarpur": {
+                "estvalue": "5"
+              },
+              "Chief Judicial Magistrate, Hoshiarpur": {
+                "estvalue": "6"
+              }
+            }
+          },
+          "Judicial Complex, Garhshankar": {
+            "crtvalue": "1220068@2,8,12@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Garhshankar": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Garhshankar": {
+                "estvalue": "8"
+              },
+              "Family Court Garhshankar, Hoshiarpur": {
+                "estvalue": "12"
+              }
+            }
+          }
+        }
+      },
+      "Jalandhar": {
+        "dstvalue": "2",
+        "court_complexes": {
+          "Judicial Complex, Phillaur": {
+            "crtvalue": "1220008@2,6,8@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Phillaur": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Phillaur": {
+                "estvalue": "6"
+              },
+              "Family Court Phillaur, Jalandhar": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "Judicial Complex, Nakodar": {
+            "crtvalue": "1220009@3,7,9@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Nakodar": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Nakodar": {
+                "estvalue": "7"
+              },
+              "Family Court Nakodar, Jalandhar": {
+                "estvalue": "9"
+              }
+            }
+          },
+          "District Court, Jalandhar": {
+            "crtvalue": "1220010@1,4,5@N",
+            "establishments": {
+              "District and Sessions Court, Jalandhar": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Jalandhar": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Jalandhar": {
+                "estvalue": "5"
+              }
+            }
+          }
+        }
+      },
+      "Kapurthala": {
+        "dstvalue": "11",
+        "court_complexes": {
+          "District Court, Kapurthala": {
+            "crtvalue": "1220042@1,4,5@Y",
+            "establishments": {
+              "District and Sessions Court, Kapurthala": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Kapurthala": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Kapurthala": {
+                "estvalue": "5"
+              }
+            }
+          },
+          "Judicial Complex, Sultanpur Lodhi": {
+            "crtvalue": "1220043@3,7,11@Y",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Sultanpur Lodhi": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Sultanpur Lodhi": {
+                "estvalue": "7"
+              },
+              "Family Camp Court, Sultanpur Lodhi": {
+                "estvalue": "11"
+              }
+            }
+          },
+          "Judicial Complex, Bholath": {
+            "crtvalue": "1220044@8,9,12@Y",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Bholath": {
+                "estvalue": "8"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Bholath": {
+                "estvalue": "9"
+              },
+              "Family Camp Court, Bholath": {
+                "estvalue": "12"
+              }
+            }
+          },
+          "Judicial Complex, Phagwara": {
+            "crtvalue": "1220045@2,6,10@Y",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Phagwara": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Phagwara": {
+                "estvalue": "6"
+              },
+              "Family Camp Court, Phagwara": {
+                "estvalue": "10"
+              }
+            }
+          }
+        }
+      },
+      "Ludhiana": {
+        "dstvalue": "1",
+        "court_complexes": {
+          "Judicial Complex, Samrala": {
+            "crtvalue": "1220003@6,9,14@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Samrala": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate,Taluka Court, Samrala": {
+                "estvalue": "9"
+              },
+              "Family Court Samrala, Ludhiana": {
+                "estvalue": "14"
+              }
+            }
+          },
+          "Judicial Complex, Payal": {
+            "crtvalue": "1220004@10,11,12@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court,Payal": {
+                "estvalue": "10"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Payal": {
+                "estvalue": "11"
+              },
+              "Family Court Payal, Ludhiana": {
+                "estvalue": "12"
+              }
+            }
+          },
+          "Judicial Complex, Jagraon": {
+            "crtvalue": "1220005@7,8,13@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Jagraon": {
+                "estvalue": "7"
+              },
+              "Chief Judicial Magistrate, taluka Court, Jagraon": {
+                "estvalue": "8"
+              },
+              "Family Court Jagraon, Ludhiana": {
+                "estvalue": "13"
+              }
+            }
+          },
+          "Judicial Complex, Khanna": {
+            "crtvalue": "1220006@2,5,15@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Khanna": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Khanna": {
+                "estvalue": "5"
+              },
+              "Family Court Khanna, Ludhiana": {
+                "estvalue": "15"
+              }
+            }
+          },
+          "District Court, Ludhiana": {
+            "crtvalue": "1220007@1,3,4@N",
+            "establishments": {
+              "District and Sessions Court, Ludhiana": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Divison, Ludhiana": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Ludhiana": {
+                "estvalue": "4"
+              }
+            }
+          }
+        }
+      },
+      "Malerkotla": {
+        "dstvalue": "124",
+        "court_complexes": {
+          "District Court, Malerkotla": {
+            "crtvalue": "1370224@1,2,3@N",
+            "establishments": {
+              "District and Session Court, Malerkotla": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Malerkotla": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Malerkotla": {
+                "estvalue": "3"
+              }
+            }
+          }
+        }
+      },
+      "Mansa": {
+        "dstvalue": "13",
+        "court_complexes": {
+          "District Court, Mansa": {
+            "crtvalue": "1220051@1,4,5@Y",
+            "establishments": {
+              "District and Sessions Court, Mansa": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Mansa": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Mansa": {
+                "estvalue": "5"
+              }
+            }
+          },
+          "Judicial Complex, Budhlada": {
+            "crtvalue": "1220052@2,7,8@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Budhlada": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Budhlada": {
+                "estvalue": "7"
+              },
+              "Family Court Phul, Budhlada": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "Judicial Complex, Sardulgarh": {
+            "crtvalue": "1220053@3,6,9@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Sardulgarh": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka court, Sardulgarh": {
+                "estvalue": "6"
+              },
+              "Family Court Phul, Sardulgarh": {
+                "estvalue": "9"
+              }
+            }
+          }
+        }
+      },
+      "Moga": {
+        "dstvalue": "12",
+        "court_complexes": {
+          "Judicial Complex, Nihalsinghwala": {
+            "crtvalue": "1220048@4,5,8@Y",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Nihal Singh Wala": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Taluka Court,  Nihal Singh Wala": {
+                "estvalue": "5"
+              },
+              "Family Court Nihal Singh Wala": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "Judicial Complex, Baghapurana": {
+            "crtvalue": "1220049@6,7,9@Y",
+            "establishments": {
+              "Chief Judicial Magistrate, Taluka Court, Baghapurana": {
+                "estvalue": "6"
+              },
+              "Civil Judge Senior Division, Taluka Court, Baghapurana": {
+                "estvalue": "7"
+              },
+              "Family Court Baghapurana": {
+                "estvalue": "9"
+              }
+            }
+          },
+          "District Court, Moga": {
+            "crtvalue": "1220050@1,2,3@N",
+            "establishments": {
+              "District and Sessions Court, Moga": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Moga": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Moga": {
+                "estvalue": "3"
+              }
+            }
+          },
+          "Gram Nyayalaya Complex, Kot IseKhan": {
+            "crtvalue": "1220090@10,11@Y",
+            "establishments": {
+              "Civil Courts, Gram Nyayalaya, Kot Ise Khan": {
+                "estvalue": "10"
+              },
+              "Criminal Courts, Gram Nyayalaya, Kot Ise Khan": {
+                "estvalue": "11"
+              }
+            }
+          }
+        }
+      },
+      "Pathankot": {
+        "dstvalue": "21",
+        "court_complexes": {
+          "District Court, Pathankot": {
+            "crtvalue": "1220074@1,2,3@N",
+            "establishments": {
+              "District and Sessions Court, Pathankot": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Pathankot": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Pathankot": {
+                "estvalue": "3"
+              }
+            }
+          }
+        }
+      },
+      "Patiala": {
+        "dstvalue": "5",
+        "court_complexes": {
+          "District Court, Patiala": {
+            "crtvalue": "1220017@1,5,6@N",
+            "establishments": {
+              "District and Sessions Court, Patiala": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Patiala": {
+                "estvalue": "5"
+              },
+              "Chief Judicial Magistrate, Patiala": {
+                "estvalue": "6"
+              }
+            }
+          },
+          "Judicial Complex, Samana": {
+            "crtvalue": "1220018@4,9,11@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Samana": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Samana": {
+                "estvalue": "9"
+              },
+              "Family Court Samana, Patiala": {
+                "estvalue": "11"
+              }
+            }
+          },
+          "Judicial Complex, Rajpura": {
+            "crtvalue": "1220019@2,8,10@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court,Rajpura": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Rajpura": {
+                "estvalue": "8"
+              },
+              "Family Court Rajpura, Patiala": {
+                "estvalue": "10"
+              }
+            }
+          },
+          "Judicial Complex, Nabha": {
+            "crtvalue": "1220020@3,7,12@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Nabha": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Nabha": {
+                "estvalue": "7"
+              },
+              "Family Court Nabha, Patiala": {
+                "estvalue": "12"
+              }
+            }
+          }
+        }
+      },
+      "Rupnagar": {
+        "dstvalue": "3",
+        "court_complexes": {
+          "District Courts, Rupnagar": {
+            "crtvalue": "1220011@1,8,9@N",
+            "establishments": {
+              "District and Sessions Court, Rupnagar": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Rupnagar": {
+                "estvalue": "8"
+              },
+              "Chief Judicial Magistrate, Rupnagar": {
+                "estvalue": "9"
+              }
+            }
+          },
+          "Judicial Complex, Anandpur Sahib": {
+            "crtvalue": "1220012@6,10,13@N",
+            "establishments": {
+              "Chief Judicial Magistrate, Taluka Court , Anandpur Sahib": {
+                "estvalue": "6"
+              },
+              "Civil Judge Senior Division, Taluka Court, Anandpur Sahib": {
+                "estvalue": "10"
+              },
+              "Family Court, Sri Anandpur Sahib": {
+                "estvalue": "13"
+              }
+            }
+          },
+          "Judicial Complex, Nangal": {
+            "crtvalue": "1220013@11,12,14@N",
+            "establishments": {
+              "Civil Courts, Gram Nyayalaya, Nangal": {
+                "estvalue": "11"
+              },
+              "Criminal Courts, Gram Nyayalaya, Nangal": {
+                "estvalue": "12"
+              },
+              "Family Court, Nangal": {
+                "estvalue": "14"
+              }
+            }
+          }
+        }
+      },
+      "Sangrur": {
+        "dstvalue": "19",
+        "court_complexes": {
+          "District Court, Sangrur": {
+            "crtvalue": "1220069@1,6,7@N",
+            "establishments": {
+              "District and Sessions Court, Sangrur": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Sangrur": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate, Sangrur": {
+                "estvalue": "7"
+              }
+            }
+          },
+          "Judicial Complex, Sunam": {
+            "crtvalue": "1220071@5,10,15@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Sunam": {
+                "estvalue": "5"
+              },
+              "Chief Judicial Magistrate, Taluka Court Sunam": {
+                "estvalue": "10"
+              },
+              "Family Court, Sunam": {
+                "estvalue": "15"
+              }
+            }
+          },
+          "Judicial Complex, Moonak": {
+            "crtvalue": "1220072@2,11,13@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Moonak": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate,Taluka Court, Moonak": {
+                "estvalue": "11"
+              },
+              "Family Court, Moonak": {
+                "estvalue": "13"
+              }
+            }
+          },
+          "Judicial Court, Dhuri": {
+            "crtvalue": "1370225@3,8,14@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Dhuri": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka Court Dhuri": {
+                "estvalue": "8"
+              },
+              "Family Court, Dhuri": {
+                "estvalue": "14"
+              }
+            }
+          }
+        }
+      },
+      "SAS Nagar": {
+        "dstvalue": "24",
+        "court_complexes": {
+          "Judicial Complex, Kharar": {
+            "crtvalue": "1220080@4,5,9@Y",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Kharar": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Kharar": {
+                "estvalue": "5"
+              },
+              "Family Court, Kharar, Sas Nagar": {
+                "estvalue": "9"
+              }
+            }
+          },
+          "District Court, SAS Nagar": {
+            "crtvalue": "1220081@1,2,3@Y",
+            "establishments": {
+              "District and Sessions Court , SAS Nagar, Mohali": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, SAS Nagar, Mohali": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, SAS Nagar, Mohali": {
+                "estvalue": "3"
+              }
+            }
+          },
+          "Judicial Court, Dera Bassi": {
+            "crtvalue": "1220085@6,7,10@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Dera Bassi": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Dera Bassi": {
+                "estvalue": "7"
+              },
+              "Family Court, Dera Bassi, SAS Nagar": {
+                "estvalue": "10"
+              }
+            }
+          }
+        }
+      },
+      "SBS Nagar": {
+        "dstvalue": "15",
+        "court_complexes": {
+          "Judicial Complex, Balachaur": {
+            "crtvalue": "1220059@2,5,6@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Balachaur": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Balachaur": {
+                "estvalue": "5"
+              },
+              "Family Court Complex, Balachaur SBS Nagar": {
+                "estvalue": "6"
+              }
+            }
+          },
+          "District Court,  SBS Nagar": {
+            "crtvalue": "1220060@1,3,4@N",
+            "establishments": {
+              "District and Sessions Court, SBS Nagar": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, SBS Nagar": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, SBS Nagar": {
+                "estvalue": "4"
+              }
+            }
+          }
+        }
+      },
+      "Sri Muktsar Sahib": {
+        "dstvalue": "14",
+        "court_complexes": {
+          "Judicial Complex, Malout": {
+            "crtvalue": "1220054@4,6,10@Y",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Malout": {
+                "estvalue": "4"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Malout": {
+                "estvalue": "6"
+              },
+              "Family Court Malout, Sri Muktsar Sahib": {
+                "estvalue": "10"
+              }
+            }
+          },
+          "District Court, Sri Muktsar Sahib": {
+            "crtvalue": "1220055@1,2,7,8@Y",
+            "establishments": {
+              "District and Sessions Court,Shri Muktsar Sahib": {
+                "estvalue": "1"
+              },
+              "District Court,Shri Muktsar Sahib": {
+                "estvalue": "2"
+              },
+              "Civil Judge Senior Division, Shri Muktsar Sahib": {
+                "estvalue": "7"
+              },
+              "Chief Judicial Magistrate, Shri Muktsar Sahib": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "Judicial Complex, Gidderbaha": {
+            "crtvalue": "1220056@3,5,11@N",
+            "establishments": {
+              "Civil Judge Senior Division,Taluka Court, Gidderbaha": {
+                "estvalue": "3"
+              },
+              "Chief Judicial Magistrate, Taluka Court,Gidderbaha": {
+                "estvalue": "5"
+              },
+              "Family Court, Gidderbaha, Sri Muktsar Sahib": {
+                "estvalue": "11"
+              }
+            }
+          }
+        }
+      },
+      "Tarn Taran": {
+        "dstvalue": "23",
+        "court_complexes": {
+          "Judicial Complex, Khadur Sahib": {
+            "crtvalue": "1220076@6,7,8@N",
+            "establishments": {
+              "Civil Judge Senior Division, Taluka Court, Khadur Sahib": {
+                "estvalue": "6"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Khadur Sahib": {
+                "estvalue": "7"
+              },
+              "Family Court, Khadur Sahib,Tarn Taran": {
+                "estvalue": "8"
+              }
+            }
+          },
+          "Judicial Complex, Patti": {
+            "crtvalue": "1220077@9,10,11@Y",
+            "establishments": {
+              "Family Court, Patti, Tarn Taran": {
+                "estvalue": "9"
+              },
+              "Civil Judge Senior Division, Taluka Court, Patti": {
+                "estvalue": "10"
+              },
+              "Chief Judicial Magistrate, Taluka Court, Patti": {
+                "estvalue": "11"
+              }
+            }
+          },
+          "District Court, Tarn Taran": {
+            "crtvalue": "1220079@1,2,3@Y",
+            "establishments": {
+              "District and Sessions Court ,Tarn Taran": {
+                "estvalue": "1"
+              },
+              "Civil Judge Senior Division, Tarn Taran": {
+                "estvalue": "2"
+              },
+              "Chief Judicial Magistrate, Tarn Taran": {
+                "estvalue": "3"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

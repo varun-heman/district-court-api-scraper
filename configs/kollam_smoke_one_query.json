@@ -1,0 +1,22 @@
+{
+  "run_id": "kollam_smoke_one_query",
+  "workers": 1,
+  "target_cnr_years": ["2023", "2024", "2025", "2026"],
+  "sample_size": 5,
+  "district_courts_config_path": "../../district-court-v2/src/config/district_courts.json",
+  "targets": [
+    {
+      "state": "Kerala",
+      "district": "Kollam",
+      "court_complexes": ["Court complex,Kottarakkara"],
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": ["18"],
+          "section": "138",
+          "statuses": ["Pending"]
+        }
+      ]
+    }
+  ]
+}

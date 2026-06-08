@@ -1,0 +1,275 @@
+{
+  "run_id": "kerala_ni138_phase1_lists_both_20260309",
+  "workers": 2,
+  "target_cnr_years": [],
+  "sample_size": 0,
+  "district_courts_config_path": "/Users/siddarth/Documents/Work/xkdr/repository/db-courts/SRC/district-court-api-scraper/configs/runtime/kerala_live_district_courts_20260309.json",
+  "targets": [
+    {
+      "state": "Kerala",
+      "district": "Alappuzha",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Idukki",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Kannur",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Kasaragod",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Kollam",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Kottayam",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Kozhikode",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Malappuram",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Palakkad",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Pathanamthitta",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Thiruvananthapuram",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Thrissur",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "district": "Wayanad",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": [
+            "18",
+            "1744",
+            "2190"
+          ],
+          "section": "138",
+          "statuses": [
+            "Both"
+          ]
+        }
+      ]
+    }
+  ]
+}

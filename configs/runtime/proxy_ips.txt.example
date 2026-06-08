@@ -1,0 +1,20 @@
+# Proxy list for the scraper. Copy to proxy_ips.txt and fill in real endpoints.
+#   cp configs/runtime/proxy_ips.txt.example configs/runtime/proxy_ips.txt
+#
+# One proxy per line, format: http://IP:PORT
+# Blank lines and lines starting with '#' are ignored.
+# The real proxy_ips.txt is gitignored so endpoints stay private.
+#
+# Point the scraper at this file with either:
+#   --proxy-file configs/runtime/proxy_ips.txt        (CLI flag)
+#   ECOURTS_PROXY_FILE=configs/runtime/proxy_ips.txt  (env var)
+#
+# The original fleet was a set of GCP tinyproxy VMs (bomhc-proxy-*) on port 8888.
+# Regenerate the live list, e.g.:
+#   gcloud compute instances list \
+#     --filter="name~'^bomhc-proxy-' AND status=RUNNING" \
+#     --format="value(networkInterfaces[0].accessConfigs[0].natIP)" \
+#     | sed 's|^|http://|; s|$|:8888|' > configs/runtime/proxy_ips.txt
+
+http://1.2.3.4:8888
+http://5.6.7.8:8888

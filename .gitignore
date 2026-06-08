@@ -1,0 +1,48 @@
+# --- Secrets / local config (never commit) ---
+.env
+configs/runtime/proxy_ips.txt
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+
+# --- OS / editor cruft ---
+.DS_Store
+.gstack/
+
+# --- Scraper state + bulk run data (large; archived separately, see README) ---
+state/*.db
+output/
+tmp/
+
+# --- Generated analysis artifacts ---
+data/*
+!data/
+!data/README.md
+!data/kollam-lifecycle-kaplanmeier.csv
+analysis/*.html
+analysis/**/*.html
+analysis/*.csv
+analysis/*.json
+docs/*.html
+
+# --- Runtime scratch inputs from past live runs ---
+configs/runtime/unblock_refresh_*/
+configs/runtime/_archive_*/
+configs/runtime/adhoc/
+configs/*cnr_numbers*.csv
+
+# --- Data archive blobs ---
+*.tar
+*.tar.gz
+*.tgz
+configs/runtime/punjab_sample_cnrs.txt
+configs/webshare_proxies.txt
+configs/runtime/punjab_sample_cnrs.txt

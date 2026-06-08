@@ -1,0 +1,22 @@
+{
+  "run_id": "example_batch_run",
+  "workers": 16,
+  "target_cnr_years": ["2023", "2024", "2025", "2026"],
+  "sample_size": 25,
+  "district_courts_config_path": "../../district-court-v2/src/config/district_courts.json",
+  "targets": [
+    {
+      "state": "Punjab",
+      "district": "SAS Nagar",
+      "court_complexes": "all",
+      "expand_establishments": false,
+      "case_types": [
+        {
+          "act_ids": ["18"],
+          "section": "138",
+          "statuses": ["Pending", "Disposed"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "run_id": "punjab_ni138_disposed_hearings",
+  "workers": 8,
+  "fetch_hearings": true,
+  "fetch_pdfs": false,
+  "allowed_case_keys_path": "configs/runtime/punjab_sample_cnrs.txt",
+  "target_cnr_years": [
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "district_courts_config_path": "/Users/varunh/Documents/Experiments/district-court-api-scraper-main/configs/punjab_district_courts.json",
+  "targets": [
+    {
+      "state": "Punjab",
+      "district": "Amritsar",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Barnala",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Bathinda",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Faridkot",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Fatehgarh Sahib",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Fazilka",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Ferozepur",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Gurdaspur",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Hoshiarpur",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Jalandhar",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Kapurthala",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Ludhiana",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Malerkotla",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Mansa",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Moga",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Pathankot",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Patiala",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Rupnagar",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Sangrur",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "SAS Nagar",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "SBS Nagar",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Sri Muktsar Sahib",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "district": "Tarn Taran",
+      "court_complexes": "all",
+      "case_types": [
+        {
+          "act_ids": [
+            "732"
+          ],
+          "section": "138",
+          "statuses": [
+            "Disposed"
+          ]
+        }
+      ]
+    }
+  ]
+}
