@@ -272,9 +272,9 @@ Root-level generated datasets under `data/` and generated reports under
 
 The Punjab NI-138 dataset is published as release assets on this repository. Two files are available:
 
-**[punjab-ni138-cases.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 78,688 NI-138 (cheque bounce) cases filed in Punjab district courts. Reliably covers 2024, 2025, and 2026 (up to scrape date); 2023 data is incomplete as that scrape was interrupted. Contains `cases.csv` (one row per case: CNR, district, filing date, decision date, status, disposal type, petitioner, respondent, advocates) and `caselists.csv` (raw case list data).
+**[punjab-ni138-cases.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 78,688 NI-138 (cheque bounce) cases filed in Punjab district courts. Reliably covers 2024, 2025, and 2026 (scraped 7 June 2026); 2023 data is incomplete as that scrape was interrupted. Contains `cases.csv` (one row per case: CNR, district, filing date, decision date, status, disposal type, petitioner, respondent, advocates) and `caselists.csv` (raw case list data).
 
-**[punjab-ni138-hearings.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 110,738 hearing records across 13,624 disposed cases (all 23 districts). The scrape was seeded with ~100 disposed cases per district but captured additional cases encountered during the run. Contains `hearings.csv` (one row per hearing: CNR, date, business text, next purpose, nature of disposal).
+**[punjab-ni138-hearings.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — 110,738 hearing records across 13,624 disposed cases (all 23 districts, scraped 7 June 2026). The scrape was seeded with ~100 disposed cases per district but captured additional cases encountered during the run. Contains `hearings.csv` (one row per hearing: CNR, date, business text, next purpose, nature of disposal).
 
 **[punjab-ni138-hearings-raw.zip](https://github.com/varun-heman/district-court-api-scraper/releases)** — Raw HTML files from the hearings scrape, one file per hearing. Use this if you want to re-parse the hearing pages with different logic. The hearings.csv above is derived from these files.
 
