@@ -1,0 +1,303 @@
+{
+  "Haryana": {
+    "stvalue": "14",
+    "districts": {
+      "Ambala": {
+        "dstvalue": "3",
+        "court_complexes": {
+          "Judicial Complex, Naraingarh": {
+            "crtvalue": "1140014@2,5,7@N"
+          },
+          "District Court, Ambala": {
+            "crtvalue": "1140016@1,3,4@N"
+          },
+          "Railway Complex, Ambala Cantt": {
+            "crtvalue": "1140017@6@N"
+          }
+        }
+      },
+      "Bhiwani": {
+        "dstvalue": "4",
+        "court_complexes": {
+          "District Court Bhiwani": {
+            "crtvalue": "1140018@1,5,6@N"
+          },
+          "Judicial Complex, Loharu": {
+            "crtvalue": "1140019@3,8,13@N"
+          },
+          "Judicial Complex, Tosham": {
+            "crtvalue": "1140020@10,11,14@N"
+          },
+          "Judicial Complex, Siwani": {
+            "crtvalue": "1140022@4,9,15@N"
+          }
+        }
+      },
+      "Charkhi Dadri": {
+        "dstvalue": "88",
+        "court_complexes": {
+          "District Court, Charkhi Dadri": {
+            "crtvalue": "1140021@1,2,3@Y"
+          }
+        }
+      },
+      "Faridabad": {
+        "dstvalue": "5",
+        "court_complexes": {
+          "District Court, Faridabad": {
+            "crtvalue": "1140023@1,2,3@N"
+          }
+        }
+      },
+      "Fatehabad": {
+        "dstvalue": "15",
+        "court_complexes": {
+          "Judicial Complex, Tohana": {
+            "crtvalue": "1140049@3,7@Y"
+          },
+          "Judicial Complex, Ratia": {
+            "crtvalue": "1140050@2,6@Y"
+          },
+          "District Court, Fatehabad": {
+            "crtvalue": "1140051@1,4,5@Y"
+          }
+        }
+      },
+      "Gurugram": {
+        "dstvalue": "6",
+        "court_complexes": {
+          "District Court, Gurugram": {
+            "crtvalue": "1140024@1,2,3@N"
+          },
+          "Judicial Complex, Sohna": {
+            "crtvalue": "1140025@6,7@N"
+          },
+          "Judicial Complex, Pataudi": {
+            "crtvalue": "1140026@4,5@N"
+          }
+        }
+      },
+      "Hisar": {
+        "dstvalue": "7",
+        "court_complexes": {
+          "Judicial Complex, Hansi": {
+            "crtvalue": "1140027@1,5,6@N"
+          },
+          "District Court, Hisar": {
+            "crtvalue": "1140028@2,3,4@N"
+          },
+          "Judicial Complex, Narnaund": {
+            "crtvalue": "1370188@9,11,12@Y"
+          },
+          "Judicial Complex, Barwala": {
+            "crtvalue": "1370189@7,8,10@Y"
+          }
+        }
+      },
+      "Jhajjar": {
+        "dstvalue": "8",
+        "court_complexes": {
+          "Judicial Complex, Bahadurgarh": {
+            "crtvalue": "1140029@2,5@N"
+          },
+          "District Court, Jhajjar": {
+            "crtvalue": "1140030@1,3,4@N"
+          }
+        }
+      },
+      "Jind": {
+        "dstvalue": "9",
+        "court_complexes": {
+          "Judicial Complex, Safidon": {
+            "crtvalue": "1140031@3,7@Y"
+          },
+          "District Court, Jind": {
+            "crtvalue": "1140032@1,4,5@N"
+          },
+          "Judicial Complex, Narwana": {
+            "crtvalue": "1140033@2,6@N"
+          }
+        }
+      },
+      "Kaithal": {
+        "dstvalue": "16",
+        "court_complexes": {
+          "District Court, Kaithal": {
+            "crtvalue": "1140052@1,3,4@N"
+          },
+          "Judicial Complex, Guhla": {
+            "crtvalue": "1140053@2,5@N"
+          }
+        }
+      },
+      "Karnal": {
+        "dstvalue": "1",
+        "court_complexes": {
+          "Judicial Complex, Assandh": {
+            "crtvalue": "1140007@2,5@N"
+          },
+          "Judicial Complex, Indri": {
+            "crtvalue": "1140008@6,7@N"
+          },
+          "District  Court, Karnal": {
+            "crtvalue": "1140009@1,3,4@Y"
+          },
+          "Judicial Complex, Gharaunda": {
+            "crtvalue": "1370074@8,9@Y"
+          }
+        }
+      },
+      "Kurukshetra": {
+        "dstvalue": "10",
+        "court_complexes": {
+          "District Court, Kurukshetra": {
+            "crtvalue": "1140034@1,3,4@N"
+          },
+          "Judicial Complex, Shahabad": {
+            "crtvalue": "1140035@6,7@N"
+          },
+          "Judicial Complex, Pehowa": {
+            "crtvalue": "1140036@2,5@N"
+          }
+        }
+      },
+      "Mahendragarh": {
+        "dstvalue": "11",
+        "court_complexes": {
+          "Judicial Complex, Mohindergarh": {
+            "crtvalue": "1140037@2,6,9@N"
+          },
+          "District Court, Narnaul": {
+            "crtvalue": "1140038@1,4,5@N"
+          },
+          "Judicial Complex, Kanina": {
+            "crtvalue": "1140039@7,8,10@N"
+          }
+        }
+      },
+      "Nuh": {
+        "dstvalue": "19",
+        "court_complexes": {
+          "District Court, Nuh": {
+            "crtvalue": "1140059@1,3,4@N"
+          },
+          "Judicial Complex, Ferozepur Jhirka": {
+            "crtvalue": "1140060@5,6@Y"
+          },
+          "Judicial Complex, Punhana": {
+            "crtvalue": "1140067@7,8@N"
+          },
+          "Judicial Court Complex, Tauru": {
+            "crtvalue": "1370208@9,10@Y"
+          }
+        }
+      },
+      "Palwal": {
+        "dstvalue": "23",
+        "court_complexes": {
+          "Judicial Complex, Hodal": {
+            "crtvalue": "1140063@4,5@N"
+          },
+          "District Court, Palwal": {
+            "crtvalue": "1140064@1,2,3@N"
+          },
+          "Judicial Complex, Hathin": {
+            "crtvalue": "1140065@6,7@N"
+          }
+        }
+      },
+      "Panchkula": {
+        "dstvalue": "14",
+        "court_complexes": {
+          "District Court, Panchkula": {
+            "crtvalue": "1140047@1,2,3@N"
+          },
+          "Judicial Complex, Kalka": {
+            "crtvalue": "1140048@4,5,6@N"
+          }
+        }
+      },
+      "Panipat": {
+        "dstvalue": "18",
+        "court_complexes": {
+          "Judicial Complex, Samalkha": {
+            "crtvalue": "1140057@4,5@Y"
+          },
+          "District Court, Panipat": {
+            "crtvalue": "1140058@1,2,3@N"
+          }
+        }
+      },
+      "Rewari": {
+        "dstvalue": "17",
+        "court_complexes": {
+          "Judicial Complex, Kosli": {
+            "crtvalue": "1140054@2,6@N"
+          },
+          "Judicial Complex, Bawal": {
+            "crtvalue": "1140055@7,8@Y"
+          },
+          "District Court, Rewari": {
+            "crtvalue": "1140056@1,4,5@N"
+          }
+        }
+      },
+      "Rohtak": {
+        "dstvalue": "12",
+        "court_complexes": {
+          "Judicial Complex, Meham": {
+            "crtvalue": "1140040@2,5,6@N"
+          },
+          "District Court, Rohtak": {
+            "crtvalue": "1140041@1,3,4@N"
+          }
+        }
+      },
+      "Sirsa": {
+        "dstvalue": "2",
+        "court_complexes": {
+          "Judicial Complex, Ellenabad": {
+            "crtvalue": "1140010@6,7@Y"
+          },
+          "District Court, Sirsa": {
+            "crtvalue": "1140011@1,3,4@N"
+          },
+          "Gram Nyayalaya Complex, Rania": {
+            "crtvalue": "1140012@8,9@Y"
+          },
+          "Judicial Complex, Dabwali": {
+            "crtvalue": "1140013@2,5@Y"
+          }
+        }
+      },
+      "Sonipat": {
+        "dstvalue": "13",
+        "court_complexes": {
+          "Judicial Complex, Gohana": {
+            "crtvalue": "1140042@7,8,12@N"
+          },
+          "Judicial Complex, Kharkhoda": {
+            "crtvalue": "1140043@9,10,11@N"
+          },
+          "Judicial Complex, Ganaur": {
+            "crtvalue": "1140044@2,6,13@N"
+          },
+          "District Court, Sonepat": {
+            "crtvalue": "1140046@1,4,5@N"
+          }
+        }
+      },
+      "Yamunanagar": {
+        "dstvalue": "20",
+        "court_complexes": {
+          "District Court, Yamunanagar": {
+            "crtvalue": "1140061@1,2,3,4,5,6@N"
+          },
+          "Judicial Complex, Bilaspur": {
+            "crtvalue": "1140062@4,5@N"
+          }
+        }
+      }
+    }
+  }
+}
