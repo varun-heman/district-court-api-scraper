@@ -1,0 +1,43 @@
+{
+  "run_id": "haryana_ni138_hearings_sampled",
+  "workers": 8,
+  "fetch_hearings": true,
+  "fetch_pdfs": false,
+  "allowed_case_keys_path": "/FILL_IN_ABSOLUTE_PATH/configs/runtime/haryana_sample_cnrs.txt",
+  "target_cnr_years": [
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "district_courts_config_path": "haryana_district_courts.json",
+  "targets": [
+    { "state": "Haryana", "district": "Ambala", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Bhiwani", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Charkhi Dadri", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Faridabad", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Fatehabad", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Gurugram", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Hisar", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Jhajjar", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Jind", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Kaithal", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Karnal", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Kurukshetra", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Mahendragarh", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Nuh", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Palwal", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Panchkula", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Panipat", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Rewari", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Rohtak", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Sirsa", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Sonipat", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] },
+    { "state": "Haryana", "district": "Yamunanagar", "court_complexes": "all", "case_types": [{ "act_ids": ["732"], "section": "138", "statuses": ["Disposed"] }] }
+  ]
+}
